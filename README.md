@@ -33,3 +33,6 @@
 ### (BANet) Boundary-Aware Network for Fast and High-Accuracy Portrait Segmentation 2019 [[paper]](https://arxiv.org/abs/1901.03814)
 ### Deep Convolutional Neural Network for Natural Image Matting Using Initial Alpha Mattes IEEE TIP [[paper]](https://ieeexplore.ieee.org/document/8476594)
 ### (IndexNet) Indices Matter: Learning to Index for Deep Image Matting ICCV 2019 [[paper]](https://arxiv.org/abs/1908.00672) [[PyTorch code]](https://github.com/poppinace/indexnet_matting)
+
+## 2020
+### Natural Image Matting via Guided Contextual Attention AAAI 2020 [[paper]](https://arxiv.org/abs/2001.04069) [[code]](https://github.com/Yaoyi-Li/GCA-Matting)
