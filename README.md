@@ -36,3 +36,4 @@
 
 ## 2020
 ### Natural Image Matting via Guided Contextual Attention AAAI 2020 [[paper]](https://arxiv.org/abs/2001.04069) [[code]](https://github.com/Yaoyi-Li/GCA-Matting)
+### Background Matting arXiv 2020 [[paper]](https://arxiv.org/abs/2002.04433)
