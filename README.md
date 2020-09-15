@@ -35,5 +35,6 @@
 ### (IndexNet) Indices Matter: Learning to Index for Deep Image Matting ICCV 2019 [[paper]](https://arxiv.org/abs/1908.00672) [[PyTorch code]](https://github.com/poppinace/indexnet_matting)
 
 ## 2020
-### Natural Image Matting via Guided Contextual Attention AAAI 2020 [[paper]](https://arxiv.org/abs/2001.04069) [[code]](https://github.com/Yaoyi-Li/GCA-Matting)
 ### Background Matting arXiv 2020 [[paper]](https://arxiv.org/abs/2002.04433)
+### High-Resolution Deep Image Matting arXiv 2020 [[paper]](https://arxiv.org/abs/2009.06613)
+### Natural Image Matting via Guided Contextual Attention AAAI 2020 [[paper]](https://arxiv.org/abs/2001.04069) [[code]](https://github.com/Yaoyi-Li/GCA-Matting)
