@@ -41,6 +41,7 @@
 ## 2020
 ### Background Matting arXiv 2020 [[paper]](https://arxiv.org/abs/2002.04433)
 ### Background Matting The World is Your Green Screen CVPR 2020 [[paper]](https://arxiv.org/abs/2004.00626)
-### High-Resolution Deep Image Matting arXiv 2020 [[paper]](https://arxiv.org/abs/2009.06613)
+### High-resolution Deep Image Matting arXiv 2020 [[paper]](https://arxiv.org/abs/2009.06613)
+### Is a Green Screen Really Necessary for Real-time Human Matting arXiv 2020 [[paper]]
 ### Mask Guided Matting via Progressive Refinement Network arXiv 2020 [[paper]]()
 ### (GCAMatting) Natural Image Matting via Guided Contextual Attention AAAI 2020 [[arXiv paper]](https://arxiv.org/abs/2001.04069) [[code]](https://github.com/Yaoyi-Li/GCA-Matting)
