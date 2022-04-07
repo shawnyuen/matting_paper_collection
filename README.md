@@ -46,3 +46,4 @@
 ### Learning Affinity-aware Upsampling for Deep Image Matting arXiv 2020 [[paper]]()
 ### Mask Guided Matting via Progressive Refinement Network arXiv 2020 [[paper]]()
 ### (GCAMatting) Natural Image Matting via Guided Contextual Attention AAAI 2020 [[arXiv paper]](https://arxiv.org/abs/2001.04069) [[code]](https://github.com/Yaoyi-Li/GCA-Matting)
+### Real-time High-resolution Background Matting arXiv 2020 [[paper]]()
