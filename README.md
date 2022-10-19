@@ -1,4 +1,4 @@
-# MattingPaperCollection
+# matting_paper_collection
 
 ## Survey
 ### A Survey on Pre-processing in Image Matting 2017 [[paper]](https://link.springer.com/article/10.1007/s11390-017-1709-z)
