@@ -3,6 +3,9 @@
 ## Survey
 ### A Survey on Pre-processing in Image Matting 2017 [[paper]](https://link.springer.com/article/10.1007/s11390-017-1709-z)
 
+## 2022
+### Robust Human Matting via Semantic Guidance ACCV 2022 [[paper]]()
+
 ## 2013
 ### KNN Matting IEEE TPAMI 2013 [[paper]]()
 
