@@ -5,6 +5,7 @@
 
 ## 2022
 ### Robust Human Matting via Semantic Guidance ACCV 2022 [[paper]]()
+### TransMatting - Tri-token Equipped Transformer Model for Image Matting arXiv 2023 [[paper]](https://arxiv.org/abs/2303.06476)
 
 ## 2013
 ### KNN Matting IEEE TPAMI 2013 [[paper]]()
